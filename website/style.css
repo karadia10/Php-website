@@ -1,0 +1,45 @@
+body, html {
+    background-color: #EDEDED !important;
+}
+
+.intro {
+    text-align: left;
+    padding-left: 5px;
+    font-weight: 200;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    margin-bottom: 1px;
+}
+
+.myleftalignment{
+    padding-left: 1%;
+    float: left;
+    align-self: auto;
+    font-size: medium;
+
+}
+.td{
+    border: 1px solid;
+    solid-color: black;
+    padding: 5px;
+
+}
+.tab{
+    border: 1px solid;
+    width: 100%
+solid-color: black;
+    border-collapse: collapse;
+
+}
+.circular {
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    -webkit-border-radius: 65px;
+    -moz-border-radius: 65px;
+    background: url(http://link-to-your/image.jpg) no-repeat;
+}
+.myheading{
+    color: skyblue;
+    text-align: center;
+}
